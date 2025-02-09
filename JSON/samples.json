@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "guitar_Acoustic",
+    "file": "samples/gutiar_calm_75_bpm.wav",
+    "bpm": "75",
+    "loop": "1m",
+    "grain": "0.041",
+    "overlap": 0.01
+  },
+  {
+    "name": "piano_calm",
+    "file": "samples/calm_piano_75bpm.wav",
+    "bpm": "75",
+    "loop": "1m",
+    "grain": "0.041",
+    "overlap": 0.01
+  },
+  {
+    "name": "snyth",
+    "file": "samples/synth_calm_75bpm.wav",
+    "bpm": "75",
+    "loop": "1m",
+    "grain": "0.041",
+    "overlap": 0.01
+  }
+]
