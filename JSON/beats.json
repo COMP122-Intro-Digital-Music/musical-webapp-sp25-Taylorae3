@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "name": "bringthebeat",
+    "pitch": "A3",
+    "pattern": "1000"
+  },
+  {
+    "name": "daretosnare",
+    "pitch": "B3",
+    "pattern": "10010010"
+  },
+  {
+    "name": "Clapitup",
+    "pitch": "C4",
+    "pattern": "01100101101101"
+  }
+]
