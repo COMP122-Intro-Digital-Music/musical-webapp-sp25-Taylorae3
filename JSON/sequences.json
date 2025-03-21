@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "name": "No sound available sequence ",
+    "loop": "1:0:2",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:2:2.0",
+        "pitch": "A4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:2.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:2.0",
+        "pitch": "Bb5",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "No volume2",
+    "loop": "1:0:2",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:3:2.0",
+        "pitch": "C#4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:1.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:3.0",
+        "pitch": "Db4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
