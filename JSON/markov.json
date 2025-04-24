@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "name": "Graph it up",
+    "pitchSet": {
+      "state": "C5",
+      "matrix": {
+        "C4": [
+          "C4",
+          "Db5"
+        ],
+        "C7": [
+          "C7"
+        ],
+        "Db5": [
+          "Db5"
+        ],
+        "C5": [
+          "C5"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "2n.",
+      "matrix": {
+        "4n": [
+          "4n"
+        ],
+        "2n.": [
+          "2n."
+        ]
+      }
+    }
+  }
+]
