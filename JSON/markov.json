@@ -1,0 +1,31 @@
+[
+  {
+    "name": "New graph it up",
+    "pitchSet": {
+      "state": "C4",
+      "matrix": {
+        "C2": [
+          "C4"
+        ],
+        "C4": [
+          "C6"
+        ],
+        "C6": [
+          "C6"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "8n.",
+      "matrix": {
+        "4n": [
+          "4n"
+        ],
+        "8n.": [
+          "8n."
+        ],
+        "2n.": []
+      }
+    }
+  }
+]
